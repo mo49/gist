@@ -4,9 +4,6 @@
 [submodule "HowToUseGist.md@gist"]
 	path = HowToUseGist.md@gist
 	url = https://gist.github.com/mo49/4d59ee913b6e9ea8d42c67194215410d
-[submodule "gistfile1.txt@gist"]
-	path = gistfile1.txt@gist
-	url = https://gist.github.com/mo49/077f6a742ce8e9c5e6b722c857c906c6
 [submodule ".gitignore_unity_private@gist"]
 	path = .gitignore_unity_private@gist
 	url = https://gist.github.com/mo49/0255587d801dbe029bac8ffc9220c504
