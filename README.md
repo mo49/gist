@@ -1,1 +1,1 @@
-全Gistのsubmoduleです。
+全Gistのsubmoduleです。
