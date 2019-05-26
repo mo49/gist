@@ -1,0 +1,45 @@
+[submodule "00_WireframeTest.md@gist"]
+	path = 00_WireframeTest.md@gist
+	url = https://gist.github.com/mo49/f103a3e8ede29f9c921e7f1d51924d37
+[submodule "HowToUseGist.md@gist"]
+	path = HowToUseGist.md@gist
+	url = https://gist.github.com/mo49/4d59ee913b6e9ea8d42c67194215410d
+[submodule "gistfile1.txt@gist"]
+	path = gistfile1.txt@gist
+	url = https://gist.github.com/mo49/077f6a742ce8e9c5e6b722c857c906c6
+[submodule ".gitignore_unity_private@gist"]
+	path = .gitignore_unity_private@gist
+	url = https://gist.github.com/mo49/0255587d801dbe029bac8ffc9220c504
+[submodule "UA.js@gist"]
+	path = UA.js@gist
+	url = https://gist.github.com/mo49/2144c9545872301e8ccd6a475aff9774
+[submodule "_variable.scss@gist"]
+	path = _variable.scss@gist
+	url = https://gist.github.com/mo49/0901c20b9923e4f0d99f3b1c447b26a6
+[submodule "_layout.scss@gist"]
+	path = _layout.scss@gist
+	url = https://gist.github.com/mo49/20e98a87dbace836a85e4281b2749380
+[submodule "_image.scss@gist"]
+	path = _image.scss@gist
+	url = https://gist.github.com/mo49/b7adc185415e2eea656d5c7d9d2a5b25
+[submodule "_hover.scss@gist"]
+	path = _hover.scss@gist
+	url = https://gist.github.com/mo49/fa5ab7417a747556823f68f27167f6e4
+[submodule "_hide-txt.scss@gist"]
+	path = _hide-txt.scss@gist
+	url = https://gist.github.com/mo49/49f46180478cd74c0d8493cb16554828
+[submodule "_link.scss@gist"]
+	path = _link.scss@gist
+	url = https://gist.github.com/mo49/b7e7292428238ed4b336cff5d1f5ac8d
+[submodule "_flex-img.scss@gist"]
+	path = _flex-img.scss@gist
+	url = https://gist.github.com/mo49/d25396cd20a4917cb28e6a66c7f2c1a8
+[submodule "English.md@gist"]
+	path = English.md@gist
+	url = https://gist.github.com/mo49/21bedf6e28894637f8602767384810d9
+[submodule "00_SimpleButton.md@gist"]
+	path = 00_SimpleButton.md@gist
+	url = https://gist.github.com/mo49/375e50719568ce2805cac345b04f0337
+[submodule "remove_git_submodule.sh@gist"]
+	path = remove_git_submodule.sh@gist
+	url = https://gist.github.com/mo49/1c2782a2b79e4932342208843e272535
