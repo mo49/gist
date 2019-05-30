@@ -43,3 +43,72 @@
 [submodule "00_ExtendToNormal.md@gist"]
 	path = 00_ExtendToNormal.md@gist
 	url = https://gist.github.com/mo49/a24aec12cbb2f75fca805f4f92323458
+[submodule "GetSpectrumData.cs@gist"]
+	path = GetSpectrumData.cs@gist
+	url = https://gist.github.com/mo49/0aa5b43c44a6610ab5342581a77a22f1
+[submodule "00_VueModal.md@gist"]
+	path = 00_VueModal.md@gist
+	url = https://gist.github.com/mo49/2220e5fa64b976c9c967f0dc2b62170a
+[submodule "CloseButton.scss@gist"]
+	path = CloseButton.scss@gist
+	url = https://gist.github.com/mo49/4a069851f1e596d276517ae2f6bfe289
+[submodule "NotoSansJP.scss@gist"]
+	path = NotoSansJP.scss@gist
+	url = https://gist.github.com/mo49/f713e3bf5773c07e6704458cfc11c54f
+[submodule "PHPLocalServer.sh@gist"]
+	path = PHPLocalServer.sh@gist
+	url = https://gist.github.com/mo49/0806786718692772e02a31894bb14e7f
+[submodule "00_SubDirNuxtConfig.md@gist"]
+	path = 00_SubDirNuxtConfig.md@gist
+	url = https://gist.github.com/mo49/712caad745dc1a8277470a456df5c7b4
+[submodule "SNS.vue@gist"]
+	path = SNS.vue@gist
+	url = https://gist.github.com/mo49/9b6d8f278ba7b4adcd7a3823ab37c143
+[submodule "00_TicketCurve.md@gist"]
+	path = 00_TicketCurve.md@gist
+	url = https://gist.github.com/mo49/3ca1156c7d0c3bd8d6321aef4a936038
+[submodule "DrawBackgroundImageByAPI.vue@gist"]
+	path = DrawBackgroundImageByAPI.vue@gist
+	url = https://gist.github.com/mo49/34dca504c2557c92e68f484383a65c15
+[submodule "DontPreventDefaultBeforeCallAjax.js@gist"]
+	path = DontPreventDefaultBeforeCallAjax.js@gist
+	url = https://gist.github.com/mo49/d3aab6d23fff690c20aa3c261ff2fcf9
+[submodule "HowToUseNVM.md@gist"]
+	path = HowToUseNVM.md@gist
+	url = https://gist.github.com/mo49/cfba7e46fa19593f9f3d1452830ea07f
+[submodule "FitInOneScreenFlex.scss@gist"]
+	path = FitInOneScreenFlex.scss@gist
+	url = https://gist.github.com/mo49/4604dd5d9d1fedca22a6c66861fe12f4
+[submodule "CheckSNSAfterReleaseWebSite.md@gist"]
+	path = CheckSNSAfterReleaseWebSite.md@gist
+	url = https://gist.github.com/mo49/20615af68092030d06ddcacbd4e8c1bb
+[submodule "CompressMp4.sh@gist"]
+	path = CompressMp4.sh@gist
+	url = https://gist.github.com/mo49/ff85df08f7179e0f033378f2549bc804
+[submodule "AutoPlayLoopVideoWebmMp4.vue@gist"]
+	path = AutoPlayLoopVideoWebmMp4.vue@gist
+	url = https://gist.github.com/mo49/71bfa96a36b7d927402a7ab0d3ec36b5
+[submodule "WebFrontEndDebug.md@gist"]
+	path = WebFrontEndDebug.md@gist
+	url = https://gist.github.com/mo49/19ba45d9a6709d7130956759d682db00
+[submodule "Favicon.md@gist"]
+	path = Favicon.md@gist
+	url = https://gist.github.com/mo49/272d2f06bae529d759bd8a0d5c57f5cf
+[submodule "PngquantCompressPng.sh@gist"]
+	path = PngquantCompressPng.sh@gist
+	url = https://gist.github.com/mo49/f9f6801043abf8625fc91e00706126a3
+[submodule "JpegoptimCompressJpg.sh@gist"]
+	path = JpegoptimCompressJpg.sh@gist
+	url = https://gist.github.com/mo49/72da73ed6826326048272494a61f9b6c
+[submodule "ConvertPngToSprite.sh@gist"]
+	path = ConvertPngToSprite.sh@gist
+	url = https://gist.github.com/mo49/79967fcf9166d6cba97b663c3e332280
+[submodule "SlantingGradation.scss@gist"]
+	path = SlantingGradation.scss@gist
+	url = https://gist.github.com/mo49/b9669f2d3f118fee50b8a80c9dc5f184
+[submodule "D3jsGraphCustomAxis.md@gist"]
+	path = D3jsGraphCustomAxis.md@gist
+	url = https://gist.github.com/mo49/b95dce2a38381034fd178e0613167f19
+[submodule "D3jsCustomLineAndBarGraph.md@gist"]
+	path = D3jsCustomLineAndBarGraph.md@gist
+	url = https://gist.github.com/mo49/276d4ab23c8ce1e01e9f7353371710fc
